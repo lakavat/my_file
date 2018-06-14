@@ -1,0 +1,57 @@
+.nav-image{
+    width:100%;
+    float:left;
+    width:100%;
+    height:635px;
+    background: url("img/girl-window.jpg") no-repeat center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+#navbar-margin{
+    margin-bottom:0px;
+    padding: 1% 0%;
+}
+
+.middle-image-text{
+    text-align:center;
+    font-family:sans-serif;
+    color:white;
+    margin:10% 0%;
+}
+.imgage-bottons{
+    text-align:center;
+}
+.btn-color{
+    background-color: #c5991c;
+    color: white;
+    
+    font-size: x-large;
+}
+.btn-color:hover{
+    background-color:#ffc107e0;
+    color:white !important;
+}
+.btn-size-a{
+    font-size:20px !important;
+    background-color: black;
+    opacity: 0.5;
+    border:2px solid white !important;
+    border-radius:none !important;
+    margin: 1%;
+}
+.btn-size-a:hover{
+    color:#ffc107e0 !important;
+    border: 2px solid #ffc107e0 !important;
+}
+.btn-size-b{
+    font-size:20px !important;
+    margin: 1%;
+}
+.dot-color{
+    color:#c5991c;
+    font-size:80px;
+}
+.main-font-size{
+    font-size:50px;
+}
